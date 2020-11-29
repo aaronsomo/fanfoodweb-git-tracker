@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# content and script
+content.py
+run_script.py
+
 # C extensions
 *.so
 
