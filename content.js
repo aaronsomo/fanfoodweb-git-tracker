@@ -1,1 +1,1 @@
-console.log("nptek")
+console.log("skbni")
