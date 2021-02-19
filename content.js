@@ -1,1 +1,1 @@
-console.log("nklxd")
+console.log("nptek")
