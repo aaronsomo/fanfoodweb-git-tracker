@@ -1,1 +1,1 @@
-console.log("uwuaj")
+console.log("fftpu")
