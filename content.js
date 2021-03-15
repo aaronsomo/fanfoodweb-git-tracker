@@ -1,1 +1,1 @@
-console.log("oymnj")
+console.log("njbor")
