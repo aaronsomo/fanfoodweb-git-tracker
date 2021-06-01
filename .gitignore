@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # content and script
-content.py
+# content.py
 run_script.py
 
 # C extensions
